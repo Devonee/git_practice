@@ -1,2 +1,2 @@
-dog = "mong"
+dog = "bark bark"
 bark = "wang wang"
